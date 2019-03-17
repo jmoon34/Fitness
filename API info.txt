@@ -1,0 +1,8 @@
+https://ndb.nal.usda.gov/ndb/doc/index#
+
+Your API key for jmcube@gmail.com is:
+
+yjG9dKrLfnx7OGerfZCjo4UplfFzNm2pVytXc1F0
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://developer.nrel.gov/api/alt-fuel-stations/v1/nearest.json?api_key=yjG9dKrLfnx7OGerfZCjo4UplfFzNm2pVytXc1F0&location=Denver+CO
